@@ -21,6 +21,10 @@
 
 ## 使用 jsDelivr
 - Release 版本已使用 jsd.cdn.zzko.cn 镜像，第三方镜像不保证稳定性，如有必要还请 Fork 后使用自己的地址
+- 示例：
+  - https://cdn.jsdelivr.net/gh/用户名/仓库名@分支/文件名
+  - https://gitee.com/tpnet/fish-helper-data/raw/master/config-a40.json -> https://raw.githubusercontent.com/azwhikaru/fish_helper_config/main/config-a40.json ->
+  - https://cdn.jsdelivr.net/gh/azwhikaru/fish_helper_config@main/config-a40.json √
 
 ## 懒人
 - 如果不想自己改，可以去 Release 找我改好的
